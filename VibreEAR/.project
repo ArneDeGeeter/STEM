@@ -3,9 +3,9 @@
 	<name>VibreEAR</name>
 	<comment></comment>
 	<projects>
+		<project>VibreWEB</project>
 		<project>VibreEJB</project>
 		<project>VibreEJBClient</project>
-		<project>VibreWEB</project>
 		<project>VibreREST</project>
 		<project>VibreJPA</project>
 	</projects>
