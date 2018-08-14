@@ -5,8 +5,8 @@
 	<projects>
 		<project>VibreEJB</project>
 		<project>VibreEJBClient</project>
-		<project>VibreWeb</project>
 		<project>VibreREST</project>
+		<project>VibreWeb</project>
 		<project>VibreJPA</project>
 	</projects>
 	<buildSpec>

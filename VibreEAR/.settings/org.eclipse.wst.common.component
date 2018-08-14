@@ -8,11 +8,11 @@
         <dependent-module archiveName="VibreEJBClient.jar" deploy-path="/" handle="module:/resource/VibreEJBClient/VibreEJBClient">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="VibreWeb.war" deploy-path="/" handle="module:/resource/VibreWeb/VibreWeb">
+        <dependent-module archiveName="VibreREST.war" deploy-path="/" handle="module:/resource/VibreREST/VibreREST">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="VibreREST.war" deploy-path="/" handle="module:/resource/VibreREST/VibreREST">
+        <dependent-module archiveName="VibreWeb.war" deploy-path="/" handle="module:/resource/VibreWeb/VibreWeb">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
