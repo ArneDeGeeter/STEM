@@ -2,7 +2,12 @@
     <wb-module deploy-name="VibreWEB">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+<<<<<<< HEAD:VibreWeb/.settings/org.eclipse.wst.common.component
         <property name="java-output-path" value="/VibreWEB/build/classes"/>
         <property name="context-root" value="VibreWEB"/>
+=======
+        <property name="context-root" value="VibreWEB"/>
+        <property name="java-output-path" value="/VibreWEB/build/classes"/>
+>>>>>>> f1c41463840204c98d3ac121a6e6084b083c307c:VibreWEB/.settings/org.eclipse.wst.common.component
     </wb-module>
 </project-modules>
